@@ -1,0 +1,41 @@
+### TEAMS STATS ###
+
+h_a = Set to "a" if game is away or "h" if its a home game
+xG = Expected goals metric. This metric is statistical measure of the quality of chances created and conceded that may lead to a goal. Basically tells us how many goals the team should've scored based on the quality of its shots.
+xGA = Expected goals againts metric.
+npxG = Expected goals metric without penalti kicks
+npxGA = Expected goals againts metric without penalti kicks
+ppda = Passes allowed per defensive action on opponents side.
+ppda_allowed = Opponents passes allowed per defensive action on opponents side.
+deep = Deep passes allowed
+deep_allowed = Opponents deep passes allowed.
+scored = Scored goals
+missed = Missed goals.
+xpts = Points expected to collect based on performance (From 0 to 3... the closer to 3 it means winning and closer to 0 means losing)
+result =  Can be 'l' for lose, 'w'  for win and 'd' for draw.
+date = Match date.
+wins = Number of wins in current match (need to be added)
+draws = Number of wins in current match (need to be added)
+loses = Number of loses in current match (need to be added)
+pts = Points accumulated in current match
+npxGD = Difference between expected goals "for" and "againts".
+
+### PLAYERS STATS ###
+
+games = Amount of games player in a season.
+time = Minutes played in a season.
+goals = Goals scored
+xG = Expected goals metric.
+assists = Assists in season
+xA = Expected goals from assists metric.
+shots = Shots made
+key_passes = key passes made
+yellow_cards
+red_cards
+position
+team_title
+npg = none penalty goals
+npxG = Expeceted none penalty goals
+xGChain = Expected goals due to passing sequence that lead to a shot. (Has key pass to shot)
+xGBuildup = Expected goals due to passing sequence without key pass to shot. (Does not have key pass to shot)
+season = season
